@@ -1,0 +1,44 @@
+body {
+    background-color: #810000;
+    font-family: "Roboto", sans-serif;
+}
+
+.heading {
+    display: flex;
+    justify-content: center;
+}
+
+.input-field {
+    display: flex;
+}
+
+#search {
+    flex: 1;
+    font-size: 20px;
+    font-family: "Roboto", sans-serif;
+    padding: 10px;
+}
+
+.conatiner {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.movie {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    padding: 20px;
+}
+
+a {
+    color: #fff;
+    text-decoration: none;
+    font-size: 42px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #fff;
+}
